@@ -50,7 +50,7 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
-section {
+body {
   background-color: gray;
   width: 800px;
   display: block;
