@@ -5,13 +5,13 @@
   border-radius: 5px;
 }
 
-# {
+# main-menu {
   position: relative;
   width: 100%;
   float: left;
 }
   
-# {
+#main-menu {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -21,25 +21,25 @@
   text-align: center;
 }
 
-# {
+# main-menu{
   display: block;
   position: relative;
   right: 50%;
   float: left;
 }
 
-#main- {
+#main- menu{
   display: block;
   padding: 15px 10px;
   text-decoration: none;
   color: white;
 }
 
-#main- a:hover {
+#main- ul li a:hover {
   background-color: gray;
 }
 
-#main-a:link {
+#main-ul li a:link {
   color: black;
   text-decoration: none;
   font-family: Arial, sans-serif;
@@ -70,10 +70,9 @@ h1, h3 {
   display: block;
 }
 
-.skyline-caption {
-  text-align: center;
+.skyline {
+  text-align: center;  
 }
-
 img {
   width: 500px;
   height: auto;
