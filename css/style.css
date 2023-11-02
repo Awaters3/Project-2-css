@@ -5,7 +5,7 @@
   border-radius: 5px;
 }
 
-# main-menu {
+#main-menu {
   position: relative;
   width: 100%;
   float: left;
@@ -21,7 +21,7 @@
   text-align: center;
 }
 
-# main-menu{
+#main-menu{
   display: block;
   position: relative;
   right: 50%;
@@ -50,7 +50,7 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 
-body {
+section {
   background-color: gray;
   width: 800px;
   display: block;
