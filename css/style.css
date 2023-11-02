@@ -21,7 +21,7 @@
   text-align: center;
 }
 
-#main-menu{
+#main-menu ul li{
   display: block;
   position: relative;
   right: 50%;
