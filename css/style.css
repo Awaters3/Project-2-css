@@ -28,14 +28,14 @@
   float: left;
 }
 
-#main- ul li a {
+#main-menu ul li a {
   display: block;
   padding: 15px 10px;
   text-decoration: none;
   color: white;
 }
 
-#main- ul li a:hover {
+#main-menu ul li a:hover {
   background-color: blue;
 }
 
