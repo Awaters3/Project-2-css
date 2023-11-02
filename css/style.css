@@ -36,7 +36,7 @@
 }
 
 #main- ul li a:hover {
-  background-color: gray;
+  background-color: blue;
 }
 
 #main-ul li a:link {
@@ -51,7 +51,7 @@ body {
 }
 
 section {
-  background-color: gray;
+  background-color: blue;
   width: 800px;
   display: block;
   margin: 20px auto;
