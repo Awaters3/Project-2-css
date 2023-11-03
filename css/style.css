@@ -1,17 +1,17 @@
-#main-menu {
+#main-navbar {
   background-color: light blue;
   overflow: hidden;
   border: 5px;
   border-radius: 5px;
 }
 
-#menu-container {
+#mnavbar-container {
   position: relative;
   width: 100%;
   float: left;
 }
   
-#main-menu ul {
+#main-navbar ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -21,21 +21,21 @@
   text-align: center;
 }
 
-#main-menu ul li {
+#main-navbar ul li {
   display: block;
   position: relative;
   right: 50%;
   float: left;
 }
 
-#main-menu ul li a {
+#main-navbar ul li a {
   display: block;
   padding: 15px 10px;
   text-decoration: none;
   color: white;
 }
 
-#main-menu ul li a:hover {
+#main-nabvar ul li a:hover {
   background-color: blue;
 }
 
