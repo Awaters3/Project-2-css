@@ -9,12 +9,7 @@ body {
     margin: 25px 120px;
     color: #618685;
     text-align: center;
-
-  
-  a {
-    text-decoration: none;
-    padding: 10px 20px;
-    color: #36486b;
+}
 
 section {
   background-color: blue;
